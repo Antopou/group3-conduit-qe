@@ -23,7 +23,7 @@
 | Application | Conduit RealWorld Blog App |
 | Frontend | React.js |
 | Backend | Node.js + Express.js |
-| Database | MongoDB |
+| Database | PostgreSQL (via Prisma ORM) |
 | Testing Tools | Jest, Postman, Playwright, JMeter |
 
 ---
@@ -52,15 +52,22 @@ Group3-Conduit-QE/
 
 ## 🚀 How to Run the App Locally
 
-### 1. Start MongoDB
+### 1. Start PostgreSQL (Docker)
 ```bash
-docker run -d -p 27017:27017 --name conduit-mongo mongo
+docker run -d \
+  --name conduit-postgres \
+  -e POSTGRES_USER=conduit \
+  -e POSTGRES_PASSWORD=conduit \
+  -e POSTGRES_DB=conduit \
+  -p 5432:5432 \
+  postgres:15
 ```
 
 ### 2. Start Backend
 ```bash
 cd backend
 npm install
+npx prisma migrate deploy
 npm run start
 # Runs on http://localhost:3000
 ```
