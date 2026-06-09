@@ -49,76 +49,3200 @@
   "fileMap": {
     "nonProjectFiles": [
       {
+        "file": "node_modules/math-intrinsics/package.json",
+        "hash": "4976391046702085762"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isNegativeZero.js",
+        "hash": "16129588423021055364"
+      },
+      {
+        "file": "node_modules/dunder-proto/README.md",
+        "hash": "114415593235972163"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/index.d.ts.map",
+        "hash": "7742795226779192450"
+      },
+      {
+        "file": "node_modules/@noble/hashes/crypto.d.ts",
+        "hash": "970673159695535124"
+      },
+      {
+        "file": "node_modules/@noble/hashes/pbkdf2.d.ts",
+        "hash": "4702946317252189695"
+      },
+      {
+        "file": "node_modules/component-emitter/package.json",
+        "hash": "8586484565317615477"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/_blake.ts",
+        "hash": "12870310332872787257"
+      },
+      {
+        "file": "node_modules/@noble/hashes/index.d.ts",
+        "hash": "10424555015742552819"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/comment.model.js",
+        "hash": "1938063803396050789"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_u64.js.map",
+        "hash": "11411697246245905140"
+      },
+      {
+        "file": "node_modules/get-proto/tsconfig.json",
+        "hash": "11317972539494895791"
+      },
+      {
+        "file": "dist/api/src/main.js",
+        "hash": "5582852934174903899"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2s.js",
+        "hash": "17526259723304056245"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/index.js",
+        "hash": "2325033750453378469"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/_md.ts",
+        "hash": "9096041366203054977"
+      },
+      {
+        "file": "node_modules/asap/asap.js",
+        "hash": "9452998474741452086"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake1.js.map",
+        "hash": "11606191949631482415"
+      },
+      {
+        "file": "node_modules/debug/README.md",
+        "hash": "17572528230628667915"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/.nycrc",
+        "hash": "3432297095845567737"
+      },
+      {
+        "file": "node_modules/@noble/hashes/ripemd160.js",
+        "hash": "8635291869056093860"
+      },
+      {
+        "file": "node_modules/es-errors/type.js",
+        "hash": "5840250068019644220"
+      },
+      {
+        "file": "node_modules/side-channel-map/README.md",
+        "hash": "775151286884059752"
+      },
+      {
+        "file": "node_modules/get-proto/.nycrc",
+        "hash": "8920670064314439538"
+      },
+      {
+        "file": "node_modules/object-inspect/test/fakes.js",
+        "hash": "11806401155599389718"
+      },
+      {
+        "file": "node_modules/call-bound/.github/FUNDING.yml",
+        "hash": "1965168319370222651"
+      },
+      {
+        "file": "node_modules/object-inspect/test/number.js",
+        "hash": "4777224834991394608"
+      },
+      {
+        "file": "node_modules/asap/package.json",
+        "hash": "5845245514224627754"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/tsconfig.json",
+        "hash": "6351189985930146429"
+      },
+      {
+        "file": "node_modules/es-object-atoms/LICENSE",
+        "hash": "12888197576746949064"
+      },
+      {
+        "file": "node_modules/es-errors/test/index.js",
+        "hash": "4972004738349303114"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/eskdf.js.map",
+        "hash": "10266423988314739822"
+      },
+      {
+        "file": "node_modules/get-intrinsic/.eslintrc",
+        "hash": "3758518440207099346"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha2.d.ts",
+        "hash": "856993485198099728"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.controller.js.map",
+        "hash": "12568162262725093397"
+      },
+      {
+        "file": "node_modules/object-inspect/test/values.js",
+        "hash": "14963258589370139477"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.model.js.map",
+        "hash": "15443568581773356194"
+      },
+      {
+        "file": "node_modules/@types/cookiejar/README.md",
+        "hash": "13863514235140676205"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake1.d.ts.map",
+        "hash": "7370395177050746240"
+      },
+      {
+        "file": "node_modules/side-channel-map/.github/FUNDING.yml",
+        "hash": "3345521072834319625"
+      },
+      {
+        "file": "node_modules/es-define-property/.nycrc",
+        "hash": "8920670064314439538"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/crypto.d.ts.map",
+        "hash": "5344543583545417042"
+      },
+      {
+        "file": "node_modules/@noble/hashes/legacy.js.map",
+        "hash": "1502142044330370055"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/user-request.d.js.map",
+        "hash": "9947606979680686569"
+      },
+      {
+        "file": "node_modules/es-errors/type.d.ts",
+        "hash": "7334587671376050858"
+      },
+      {
+        "file": "node_modules/es-object-atoms/ToObject.d.ts",
+        "hash": "3365716608593104482"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/parsers/index.js",
+        "hash": "5316231754879771066"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/auth.service.js",
+        "hash": "3116150197294439537"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2s.js.map",
+        "hash": "1753833287287193630"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/argon2.js.map",
+        "hash": "13159683138350282705"
+      },
+      {
+        "file": "node_modules/@noble/hashes/ripemd160.d.ts",
+        "hash": "2817415341896495665"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/registered-user.model.js",
+        "hash": "18075255041857264002"
+      },
+      {
+        "file": "node_modules/side-channel-map/CHANGELOG.md",
+        "hash": "1048804452846038126"
+      },
+      {
+        "file": "node_modules/object-inspect/test/lowbyte.js",
+        "hash": "860598398716745828"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3.js",
+        "hash": "12376516916700863588"
+      },
+      {
+        "file": "node_modules/math-intrinsics/abs.d.ts",
+        "hash": "15279822459664956113"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3.d.ts.map",
+        "hash": "6462896671105506157"
+      },
+      {
+        "file": "node_modules/math-intrinsics/floor.d.ts",
+        "hash": "6677016135769478023"
+      },
+      {
+        "file": "node_modules/ms/readme.md",
+        "hash": "2237228644489537718"
+      },
+      {
+        "file": "node_modules/has-tostringtag/test/index.js",
+        "hash": "770600911465553347"
+      },
+      {
+        "file": "node_modules/gopd/index.js",
+        "hash": "2925273446044500320"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha2.js",
+        "hash": "13295098935778766187"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hmac.d.ts.map",
+        "hash": "9000717191702912687"
+      },
+      {
+        "file": "node_modules/es-define-property/test/index.js",
+        "hash": "6824214810889989941"
+      },
+      {
+        "file": "node_modules/formidable/src/PersistentFile.js",
+        "hash": "15774885993860251363"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake1.js",
+        "hash": "14550386040337137589"
+      },
+      {
+        "file": "node_modules/es-object-atoms/RequireObjectCoercible.js",
+        "hash": "17854859008363896204"
+      },
+      {
+        "file": "node_modules/side-channel-list/CHANGELOG.md",
+        "hash": "16184426410964144510"
+      },
+      {
+        "file": "node_modules/formidable/dist/index.cjs",
+        "hash": "15705438543039711830"
+      },
+      {
+        "file": "node_modules/@types/superagent/LICENSE",
+        "hash": "11929769968810875751"
+      },
+      {
+        "file": "node_modules/math-intrinsics/mod.js",
+        "hash": "5388051025221984986"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/LICENSE.md",
+        "hash": "5388219400567187433"
+      },
+      {
+        "file": "node_modules/has-symbols/index.js",
+        "hash": "8516176920026267369"
+      },
+      {
+        "file": "node_modules/asap/LICENSE.md",
+        "hash": "16830733008192883831"
+      },
+      {
+        "file": "node_modules/gopd/gOPD.js",
+        "hash": "1551251549475696825"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/types/standard.js",
+        "hash": "18104948814327358492"
+      },
+      {
+        "file": "node_modules/es-errors/uri.js",
+        "hash": "7412071883373072972"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha256.js.map",
+        "hash": "11085459051272789851"
+      },
+      {
+        "file": "node_modules/dunder-proto/.github/FUNDING.yml",
+        "hash": "5092219681098277167"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2.js.map",
+        "hash": "8224661419122169636"
+      },
+      {
+        "file": "node_modules/es-define-property/package.json",
+        "hash": "9828451976384631127"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_u64.d.ts.map",
+        "hash": "16897537096902667405"
+      },
+      {
+        "file": "node_modules/supertest/node_modules/cookie-signature/LICENSE",
+        "hash": "5439476102705542392"
+      },
+      {
+        "file": "node_modules/hasown/eslint.config.mjs",
+        "hash": "14282759805754675935"
+      },
+      {
+        "file": "dist/api/src/prisma/seed.js",
+        "hash": "17666993343579714288"
+      },
+      {
+        "file": "node_modules/es-errors/LICENSE",
+        "hash": "12888197576746949064"
+      },
+      {
+        "file": "node_modules/has-symbols/test/tests.js",
+        "hash": "6035922638517281368"
+      },
+      {
+        "file": "node_modules/ms/package.json",
+        "hash": "10008079144802632041"
+      },
+      {
+        "file": "node_modules/side-channel-list/LICENSE",
+        "hash": "12888197576746949064"
+      },
+      {
+        "file": "dist/api/src/app/routes/routes.js.map",
+        "hash": "6649399264050967214"
+      },
+      {
+        "file": "node_modules/get-proto/Reflect.getPrototypeOf.js",
+        "hash": "16920519195141260689"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/cryptoNode.js.map",
+        "hash": "16392315671100339791"
+      },
+      {
+        "file": "node_modules/@noble/hashes/legacy.js",
+        "hash": "5031234318904962055"
+      },
+      {
+        "file": "node_modules/get-intrinsic/.nycrc",
+        "hash": "8920670064314439538"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/test/parse.js",
+        "hash": "11742375352012860772"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake3.d.ts.map",
+        "hash": "6996225138218550057"
+      },
+      {
+        "file": "node_modules/has-symbols/index.d.ts",
+        "hash": "14836336205027610763"
+      },
+      {
+        "file": "node_modules/superagent/lib/response-base.js",
+        "hash": "4580040951892484804"
+      },
+      {
+        "file": "node_modules/has-symbols/test/shams/core-js.js",
+        "hash": "15588711371944155421"
+      },
+      {
+        "file": "node_modules/has-symbols/.nycrc",
+        "hash": "8920670064314439538"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/package.json",
+        "hash": "2493279251447313813"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3-addons.js.map",
+        "hash": "2766817901974291835"
+      },
+      {
+        "file": "node_modules/side-channel-map/test/index.js",
+        "hash": "16003974410801508741"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/argon2.d.ts",
+        "hash": "6923573924361964467"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_u64.d.ts",
+        "hash": "3101476197880545972"
+      },
+      {
+        "file": "node_modules/es-object-atoms/RequireObjectCoercible.d.ts",
+        "hash": "892527814578351331"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/unzip.js",
+        "hash": "2510174437194237338"
+      },
+      {
+        "file": "node_modules/get-proto/Object.getPrototypeOf.d.ts",
+        "hash": "8341591143105711419"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/agent.js",
+        "hash": "13346474402116529484"
+      },
+      {
+        "file": "node_modules/es-object-atoms/ToObject.js",
+        "hash": "11332064458388814376"
+      },
+      {
+        "file": "node_modules/has-symbols/package.json",
+        "hash": "10439509104234027894"
+      },
+      {
+        "file": "node_modules/hasown/package.json",
+        "hash": "15823347377884407830"
+      },
+      {
+        "file": "node_modules/math-intrinsics/abs.js",
+        "hash": "12630207310440610563"
+      },
+      {
+        "file": "node_modules/has-tostringtag/LICENSE",
+        "hash": "11862803281404144856"
+      },
+      {
+        "file": "node_modules/math-intrinsics/floor.js",
+        "hash": "16529084973527976992"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha2.d.ts.map",
+        "hash": "16975675402880183951"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/legacy.js.map",
+        "hash": "5826519347352508660"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/argon2.ts",
+        "hash": "15708373348367399832"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/cryptoNode.js",
+        "hash": "1335133219481826885"
+      },
+      {
+        "file": "node_modules/object-inspect/test/circular.js",
+        "hash": "14127780097497803571"
+      },
+      {
+        "file": "node_modules/object-inspect/test/fn.js",
+        "hash": "15933784450232047249"
+      },
+      {
+        "file": "node_modules/gopd/LICENSE",
+        "hash": "9757153762412735215"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha256.d.ts",
+        "hash": "7271792960683556223"
+      },
+      {
+        "file": "node_modules/supertest/lib/agent.js",
+        "hash": "62281499271129531"
+      },
+      {
+        "file": "node_modules/form-data/README.md",
+        "hash": "16218342497692389844"
+      },
+      {
+        "file": "node_modules/formidable/src/helpers/firstValues.js",
+        "hash": "9043849266380402065"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/user.model.js",
+        "hash": "4890597013612844780"
+      },
+      {
+        "file": "node_modules/@types/superagent/lib/agent-base.d.ts",
+        "hash": "1469318036115846985"
+      },
+      {
+        "file": "node_modules/math-intrinsics/max.js",
+        "hash": "12140211093052990692"
+      },
+      {
+        "file": "node_modules/gopd/index.d.ts",
+        "hash": "13348571660814919077"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_u64.js.map",
+        "hash": "3914656542375203596"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.controller.js.map",
+        "hash": "170681800057396540"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_blake.js",
+        "hash": "9142146794448771537"
+      },
+      {
+        "file": "node_modules/side-channel-list/index.d.ts",
+        "hash": "9408456982327140305"
+      },
+      {
+        "file": "node_modules/formidable/src/parsers/JSON.js",
+        "hash": "17226140870083075621"
+      },
+      {
+        "file": "node_modules/has-tostringtag/test/tests.js",
+        "hash": "1138028822795644052"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/.github/SECURITY.md",
+        "hash": "15470324191199004466"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2b.js",
+        "hash": "618681688582392531"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isFinite.d.ts",
+        "hash": "16519902108559454199"
+      },
+      {
+        "file": "node_modules/side-channel-list/package.json",
+        "hash": "6936706738698204931"
+      },
+      {
+        "file": "node_modules/superagent/dist/superagent.js",
+        "hash": "9851720584656139305"
+      },
+      {
+        "file": "node_modules/formidable/src/parsers/OctetStream.js",
+        "hash": "5141343272809313356"
+      },
+      {
+        "file": "node_modules/side-channel/.nycrc",
+        "hash": "3432297095845567737"
+      },
+      {
+        "file": "node_modules/dezalgo/README.md",
+        "hash": "17580158398372338428"
+      },
+      {
+        "file": "node_modules/superagent/lib/request-base.js",
+        "hash": "2925214934615962424"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/CHANGELOG.md",
+        "hash": "9927114565845988509"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2s.d.ts.map",
+        "hash": "18021257424204959384"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/user.model.js.map",
+        "hash": "1598001269634471998"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_blake.d.ts",
+        "hash": "5162657749779223792"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/hkdf.ts",
+        "hash": "12917108549326111504"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/auth.controller.js",
+        "hash": "1164646329773755693"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/README.md",
+        "hash": "13544079568995004610"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/index.js.map",
+        "hash": "8429229614392835445"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_assert.d.ts",
+        "hash": "1633572301186076102"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/index.js",
+        "hash": "1724274670971954750"
+      },
+      {
+        "file": "node_modules/hasown/.nycrc",
+        "hash": "3432297095845567737"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/LICENSE",
+        "hash": "12888197576746949064"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2.js",
+        "hash": "9815687759448427948"
+      },
+      {
+        "file": "node_modules/asap/browser-raw.js",
+        "hash": "16136932676985676798"
+      },
+      {
+        "file": "node_modules/@types/supertest/lib/test.d.ts",
+        "hash": "5837996791676294984"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/_u64.ts",
+        "hash": "8879949762168263343"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha512.d.ts",
+        "hash": "13622010904093991652"
+      },
+      {
+        "file": "node_modules/formidable/src/plugins/multipart.js",
+        "hash": "16321322904524878425"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_assert.js.map",
+        "hash": "7573045999479595817"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/parsers/text.js",
+        "hash": "728366099005059270"
+      },
+      {
+        "file": "node_modules/math-intrinsics/constants/maxSafeInteger.d.ts",
+        "hash": "14454932738307312790"
+      },
+      {
+        "file": "node_modules/dunder-proto/LICENSE",
+        "hash": "624113732529435705"
+      },
+      {
+        "file": "node_modules/@noble/hashes/eskdf.d.ts",
+        "hash": "16899689891905583494"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hmac.js",
+        "hash": "9339708786912915503"
+      },
+      {
+        "file": "node_modules/math-intrinsics/max.d.ts",
+        "hash": "6510829357240363975"
+      },
+      {
+        "file": "node_modules/has-tostringtag/README.md",
+        "hash": "15633754061490340606"
+      },
+      {
+        "file": "node_modules/has-tostringtag/tsconfig.json",
+        "hash": "2168066923627387403"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha512.d.ts.map",
+        "hash": "3293859767334446658"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2.d.ts",
+        "hash": "1717846717911007980"
+      },
+      {
+        "file": "node_modules/@types/supertest/LICENSE",
+        "hash": "11929769968810875751"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/test/empty-keys-cases.js",
+        "hash": "7505037202626276871"
+      },
+      {
+        "file": "node_modules/call-bound/package.json",
+        "hash": "17947060071226935806"
+      },
+      {
+        "file": "node_modules/math-intrinsics/pow.js",
+        "hash": "8034394397872986168"
+      },
+      {
+        "file": "node_modules/side-channel-list/.eslintrc",
+        "hash": "1009502354389572012"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3-addons.js",
+        "hash": "7654596851897317131"
+      },
+      {
+        "file": "node_modules/es-define-property/index.js",
+        "hash": "9543057930230529794"
+      },
+      {
+        "file": "node_modules/form-data/index.d.ts",
+        "hash": "10956521868972519523"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/test/index.js",
+        "hash": "14087651223408678691"
+      },
+      {
+        "file": "node_modules/@noble/hashes/utils.js",
+        "hash": "10857061228776754994"
+      },
+      {
+        "file": "node_modules/dunder-proto/get.d.ts",
+        "hash": "17971913731631923199"
+      },
+      {
+        "file": "node_modules/@noble/hashes/cryptoNode.d.ts",
+        "hash": "2954914321529574498"
+      },
+      {
+        "file": "node_modules/get-proto/index.js",
+        "hash": "12716351600312407369"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/index.d.ts",
+        "hash": "8335502616158689405"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_assert.js",
+        "hash": "14495566336286642722"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2s.js",
+        "hash": "4273798220220365399"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake3.js",
+        "hash": "272554037503031823"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hmac.d.ts",
+        "hash": "7810000049183389466"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/blake2.ts",
+        "hash": "5388772342899227088"
+      },
+      {
+        "file": "node_modules/@types/superagent/README.md",
+        "hash": "12035892399503507125"
+      },
+      {
+        "file": "node_modules/get-intrinsic/LICENSE",
+        "hash": "3008875862442679395"
+      },
+      {
+        "file": "node_modules/@noble/hashes/utils.js.map",
+        "hash": "11622900829233512257"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hkdf.d.ts.map",
+        "hash": "14188407896143774182"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/LICENSE",
+        "hash": "16080163685093787176"
+      },
+      {
+        "file": "node_modules/object-inspect/package.json",
+        "hash": "15054410795492462293"
+      },
+      {
+        "file": "node_modules/formidable/dist/parsers/StreamingQuerystring.cjs",
+        "hash": "1453261281914664000"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/reflectApply.d.ts",
+        "hash": "10659022541625221494"
+      },
+      {
+        "file": "node_modules/superagent/lib/client.js",
+        "hash": "13634460761200673678"
+      },
+      {
+        "file": "node_modules/has-tostringtag/.github/FUNDING.yml",
+        "hash": "11973219300185501244"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha2.js.map",
+        "hash": "18026646437570168176"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/ripemd160.js",
+        "hash": "1987344572960868057"
+      },
+      {
+        "file": "node_modules/get-proto/index.d.ts",
+        "hash": "17749352906342800993"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_u64.d.ts",
+        "hash": "3101476197880545972"
+      },
+      {
+        "file": "tmp/tsconfig.generated.json",
+        "hash": "5545949764451226945"
+      },
+      {
+        "file": "node_modules/call-bound/test/index.js",
+        "hash": "13061260792103110489"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake1.js",
+        "hash": "13131720159587787593"
+      },
+      {
+        "file": "node_modules/es-errors/.eslintrc",
+        "hash": "16109232176193711292"
+      },
+      {
+        "file": "node_modules/side-channel-map/.eslintrc",
+        "hash": "1009502354389572012"
+      },
+      {
+        "file": "node_modules/object-inspect/example/all.js",
+        "hash": "18084454625362341585"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_u64.js",
+        "hash": "13063482343071194317"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_md.js",
+        "hash": "17401033337861328572"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/functionApply.js",
+        "hash": "12610463427743500460"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2b.d.ts.map",
+        "hash": "18267995684461493494"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/index.js",
+        "hash": "1734324496533538369"
+      },
+      {
+        "file": "node_modules/@types/cookiejar/index.d.ts",
+        "hash": "17478353550691952292"
+      },
+      {
+        "file": "node_modules/object-inspect/test/deep.js",
+        "hash": "3452559820926801950"
+      },
+      {
+        "file": "node_modules/formidable/dist/parsers/OctetStream.cjs",
+        "hash": "15769589742797612772"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isNaN.d.ts",
+        "hash": "14642230376042333642"
+      },
+      {
+        "file": "node_modules/asap/CHANGES.md",
+        "hash": "13528274742685255666"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2s.d.ts",
+        "hash": "4844164089278375961"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake1.d.ts.map",
+        "hash": "5115878346521235065"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2b.js.map",
+        "hash": "17539043364143231755"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/cli.js",
+        "hash": "11427472859098015252"
+      },
+      {
+        "file": "node_modules/has-symbols/shams.d.ts",
+        "hash": "8169880436713707541"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/CHANGELOG.md",
+        "hash": "10477107081796045045"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/lib/index.js",
+        "hash": "11364199202662635282"
+      },
+      {
+        "file": "node_modules/get-intrinsic/.github/FUNDING.yml",
+        "hash": "4082154203408213381"
+      },
+      {
+        "file": "node_modules/object-inspect/CHANGELOG.md",
+        "hash": "10442028673782136242"
+      },
+      {
+        "file": "node_modules/call-bound/README.md",
+        "hash": "6015906026390837330"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.service.js.map",
+        "hash": "10947151057813864468"
+      },
+      {
+        "file": "node_modules/@types/superagent/package.json",
+        "hash": "3020377742479367396"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hmac.d.ts.map",
+        "hash": "6182540229474886444"
+      },
+      {
+        "file": "node_modules/get-intrinsic/test/GetIntrinsic.js",
+        "hash": "17081063529336616360"
+      },
+      {
+        "file": "node_modules/supertest/lib/cookies/index.js",
+        "hash": "17472739635057933348"
+      },
+      {
+        "file": "node_modules/form-data/lib/browser.js",
+        "hash": "9906174872905458338"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/types/other.js",
+        "hash": "13437233506995819155"
+      },
+      {
+        "file": "node_modules/dunder-proto/tsconfig.json",
+        "hash": "1132832503583856013"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/applyBind.d.ts",
+        "hash": "8829397043755775133"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/.editorconfig",
+        "hash": "13871203256947041333"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/register-input.model.js.map",
+        "hash": "419895949027954470"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/sha2.ts",
+        "hash": "4171981794851504521"
+      },
+      {
+        "file": "node_modules/side-channel/LICENSE",
+        "hash": "2970713655386700954"
+      },
+      {
+        "file": "node_modules/math-intrinsics/constants/maxValue.js",
+        "hash": "3962775383761233816"
+      },
+      {
+        "file": "node_modules/get-intrinsic/CHANGELOG.md",
+        "hash": "3079952257761638806"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_assert.d.ts.map",
+        "hash": "6336826332806140167"
+      },
+      {
+        "file": "node_modules/@noble/hashes/index.js.map",
+        "hash": "2846005316774849339"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/test/stringify.js",
+        "hash": "12889025589358605570"
+      },
+      {
+        "file": "node_modules/es-object-atoms/test/index.js",
+        "hash": "3284504907952389753"
+      },
+      {
+        "file": "node_modules/debug/src/common.js",
+        "hash": "18321469966743503527"
+      },
+      {
+        "file": "node_modules/es-errors/CHANGELOG.md",
+        "hash": "11836794688626351119"
+      },
+      {
+        "file": "node_modules/es-errors/syntax.js",
+        "hash": "1885195857556548936"
+      },
+      {
+        "file": "node_modules/superagent/README.md",
+        "hash": "272549757548446916"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha512.js.map",
+        "hash": "357634232110577738"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/utils.ts",
+        "hash": "9127264331734918472"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/lib/formats.js",
+        "hash": "16755186650453547145"
+      },
+      {
+        "file": "node_modules/math-intrinsics/constants/maxArrayLength.d.ts",
+        "hash": "2467236205057955224"
+      },
+      {
+        "file": "node_modules/@noble/hashes/index.d.ts.map",
+        "hash": "7100901401630075469"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.utils.js",
+        "hash": "12685180827639176034"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha1.d.ts",
+        "hash": "15822303009247400573"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/functionCall.js",
+        "hash": "11118402009127100860"
+      },
+      {
+        "file": "node_modules/es-define-property/README.md",
+        "hash": "18346959065961492402"
+      },
+      {
+        "file": "node_modules/side-channel-list/.editorconfig",
+        "hash": "13871203256947041333"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3.js",
+        "hash": "5792579440011899647"
+      },
+      {
+        "file": "node_modules/formidable/src/plugins/querystring.js",
+        "hash": "15427036984623728458"
+      },
+      {
+        "file": "node_modules/object-inspect/test-core-js.js",
+        "hash": "415855871517553406"
+      },
+      {
+        "file": "node_modules/es-object-atoms/.eslintrc",
+        "hash": "1186608171835063022"
+      },
+      {
+        "file": "node_modules/side-channel/index.js",
+        "hash": "7386725107871054607"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha512.d.ts",
+        "hash": "13622010904093991652"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2s.js.map",
+        "hash": "6011371149061838713"
+      },
+      {
+        "file": "node_modules/supertest/LICENSE",
+        "hash": "2863932978419481116"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha512.js",
+        "hash": "2477944828027762190"
+      },
+      {
+        "file": "node_modules/cookiejar/LICENSE",
+        "hash": "15034829081374474361"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3-addons.d.ts",
+        "hash": "5953712508855948026"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/argon2.d.ts.map",
+        "hash": "11930461485503397843"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/http2wrapper.js",
+        "hash": "3713015815743817621"
+      },
+      {
+        "file": "node_modules/object-inspect/test/undef.js",
+        "hash": "17536205316791423622"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/CHANGELOG.md",
+        "hash": "10720800622792978577"
+      },
+      {
+        "file": "node_modules/formidable/dist/helpers/readBooleans.cjs",
+        "hash": "18427692851287375269"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/eskdf.js",
+        "hash": "13663199032457945527"
+      },
+      {
+        "file": "node_modules/call-bound/index.d.ts",
+        "hash": "9349164061790855604"
+      },
+      {
+        "file": "node_modules/@types/superagent/lib/node/agent.d.ts",
+        "hash": "2772632872729640325"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3-addons.js",
+        "hash": "16744759849252237927"
+      },
+      {
+        "file": "node_modules/math-intrinsics/LICENSE",
+        "hash": "624113732529435705"
+      },
+      {
+        "file": "node_modules/formidable/src/parsers/Querystring.js",
+        "hash": "2861459924990789888"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha1.js.map",
+        "hash": "3975948196087546204"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/pbkdf2.d.ts.map",
+        "hash": "13439484023260862746"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/package.json",
+        "hash": "1581218213941701166"
+      },
+      {
+        "file": "node_modules/superagent/dist/superagent.min.js",
+        "hash": "4464982309589596445"
+      },
+      {
+        "file": "node_modules/supertest/node_modules/cookie-signature/History.md",
+        "hash": "730224604435813974"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/tsconfig.json",
+        "hash": "6351189985930146429"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hkdf.d.ts",
+        "hash": "16215008302959889614"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake3.js",
+        "hash": "3296819615025648887"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha1.d.ts.map",
+        "hash": "3814859353664225627"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/eskdf.d.ts",
+        "hash": "16899689891905583494"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/.github/FUNDING.yml",
+        "hash": "13568117024156584753"
+      },
+      {
+        "file": "node_modules/@types/supertest/types.d.ts",
+        "hash": "3879480441231776692"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake3.d.ts",
+        "hash": "11122849344169821933"
+      },
+      {
+        "file": "node_modules/@types/supertest/lib/cookies.d.ts",
+        "hash": "1562309016886892718"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/utils.js.map",
+        "hash": "2388962593325589907"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_md.d.ts",
+        "hash": "12019025138010133628"
+      },
+      {
+        "file": "node_modules/es-object-atoms/package.json",
+        "hash": "7050716730767809366"
+      },
+      {
+        "file": "node_modules/get-proto/LICENSE",
+        "hash": "10589815150494513532"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/eskdf.d.ts.map",
+        "hash": "9646807442301166170"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/blake2b.ts",
+        "hash": "13426799328893159061"
+      },
+      {
+        "file": "node_modules/formidable/src/plugins/json.js",
+        "hash": "15397348690634750610"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/lib/utils.js",
+        "hash": "14990995239752828152"
+      },
+      {
+        "file": "node_modules/call-bound/.eslintrc",
+        "hash": "16004315274915435186"
+      },
+      {
+        "file": "node_modules/object-inspect/example/circular.js",
+        "hash": "304903428422050256"
+      },
+      {
+        "file": "node_modules/@noble/hashes/scrypt.js",
+        "hash": "11852231564644394290"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha256.js.map",
+        "hash": "13271490581064485865"
+      },
+      {
+        "file": "node_modules/hasown/tsconfig.json",
+        "hash": "7240843874178656897"
+      },
+      {
+        "file": "node_modules/get-intrinsic/index.js",
+        "hash": "5134239185891858126"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/.github/FUNDING.yml",
+        "hash": "1148397816292187668"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/applyBind.js",
+        "hash": "9847391175950734776"
+      },
+      {
+        "file": "node_modules/@noble/hashes/cryptoNode.js",
+        "hash": "11623595836006556136"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake3.d.ts.map",
+        "hash": "4953404228796761424"
+      },
+      {
+        "file": "node_modules/hasown/README.md",
+        "hash": "14835628740562188042"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/.eslintrc",
+        "hash": "9967836421111524783"
+      },
+      {
+        "file": "node_modules/@noble/hashes/README.md",
+        "hash": "3296318110423364513"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isInteger.d.ts",
+        "hash": "15867935508263378624"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2b.d.ts",
+        "hash": "15163856299115173660"
+      },
+      {
+        "file": "node_modules/gopd/.github/FUNDING.yml",
+        "hash": "15825675763535775072"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/ripemd160.ts",
+        "hash": "9813470192858310739"
+      },
+      {
+        "file": "dist/api/src/app/models/http-exception.model.js.map",
+        "hash": "4965241793196231884"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/legacy.d.ts",
+        "hash": "18040567961657558368"
+      },
+      {
+        "file": "node_modules/side-channel/CHANGELOG.md",
+        "hash": "17328095115305386575"
+      },
+      {
+        "file": "node_modules/math-intrinsics/min.d.ts",
+        "hash": "8839433370683221934"
+      },
+      {
+        "file": "node_modules/cookiejar/readme.md",
+        "hash": "2067386499964548861"
+      },
+      {
+        "file": "node_modules/formidable/src/FormidableError.js",
+        "hash": "7905614961187434648"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/eskdf.ts",
+        "hash": "5806469248298140704"
+      },
+      {
+        "file": "node_modules/side-channel-list/README.md",
+        "hash": "11384543817217753307"
+      },
+      {
+        "file": "node_modules/es-object-atoms/README.md",
+        "hash": "17527464445387134973"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/sha3-addons.ts",
+        "hash": "10556634798034491877"
+      },
+      {
+        "file": "node_modules/es-object-atoms/tsconfig.json",
+        "hash": "17809776139433439169"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/pbkdf2.js",
+        "hash": "4931244424541931744"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.model.js.map",
+        "hash": "10125285934358188014"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake3.js.map",
+        "hash": "9006171770451735097"
+      },
+      {
+        "file": "node_modules/es-errors/eval.js",
+        "hash": "290735327256875618"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/CHANGELOG.md",
+        "hash": "4696687359298585114"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3.js.map",
+        "hash": "9738887243024570466"
+      },
+      {
+        "file": ".nx/cache/run.json",
+        "hash": "15522113377443592507"
+      },
+      {
+        "file": "node_modules/get-proto/.eslintrc",
+        "hash": "16457073958983371193"
+      },
+      {
+        "file": "node_modules/supertest/node_modules/cookie-signature/index.js",
+        "hash": "16136139793517527205"
+      },
+      {
+        "file": "node_modules/dezalgo/package.json",
+        "hash": "9557046205900282846"
+      },
+      {
+        "file": "node_modules/has-tostringtag/.eslintrc",
+        "hash": "16109232176193711292"
+      },
+      {
+        "file": "node_modules/has-symbols/test/index.js",
+        "hash": "9670655083559912234"
+      },
+      {
+        "file": "node_modules/@noble/hashes/argon2.d.ts",
+        "hash": "6923573924361964467"
+      },
+      {
+        "file": "dist/api/src/app/routes/tag/tag.controller.js.map",
+        "hash": "12313077603052206534"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha2.d.ts",
+        "hash": "856993485198099728"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/index.ts",
+        "hash": "5604638795441303626"
+      },
+      {
+        "file": "node_modules/dunder-proto/test/set.js",
+        "hash": "3717798494702531660"
+      },
+      {
+        "file": "node_modules/@types/supertest/lib/agent.d.ts",
+        "hash": "3037165745654384329"
+      },
+      {
+        "file": "node_modules/form-data/package.json",
+        "hash": "1294703528634303989"
+      },
+      {
+        "file": "node_modules/gopd/test/index.js",
+        "hash": "15072391304175542979"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/token.utils.js.map",
+        "hash": "2880209657070907628"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha1.js",
+        "hash": "4074852979660671310"
+      },
+      {
+        "file": "node_modules/es-object-atoms/index.d.ts",
+        "hash": "2810107698215761680"
+      },
+      {
+        "file": "node_modules/es-object-atoms/CHANGELOG.md",
+        "hash": "16400295199719462599"
+      },
+      {
+        "file": "node_modules/has-tostringtag/test/shams/get-own-property-symbols.js",
+        "hash": "18416914769324582275"
+      },
+      {
+        "file": "dist/api/src/app/routes/routes.js",
+        "hash": "16782373401632224567"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/CHANGELOG.md",
+        "hash": "12215634201386813036"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake1.d.ts",
+        "hash": "15202294268875138298"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/ripemd160.d.ts",
+        "hash": "2817415341896495665"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.utils.js.map",
+        "hash": "4656416685978284767"
+      },
+      {
+        "file": "node_modules/formidable/dist/parsers/Multipart.cjs",
+        "hash": "18162857291820103917"
+      },
+      {
+        "file": "node_modules/get-proto/README.md",
+        "hash": "995828045954818085"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3.js.map",
+        "hash": "1399249598889231885"
+      },
+      {
+        "file": "node_modules/formidable/src/Formidable.js",
+        "hash": "15536302747214457182"
+      },
+      {
+        "file": "node_modules/dunder-proto/set.d.ts",
+        "hash": "10396295194197456420"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.controller.js",
+        "hash": "1981716969942687340"
+      },
+      {
+        "file": "node_modules/form-data/License",
+        "hash": "9443011791482864821"
+      },
+      {
+        "file": "node_modules/@types/supertest/index.d.ts",
+        "hash": "144160379243797957"
+      },
+      {
+        "file": "dist/api/package-lock.json",
+        "hash": "8032030096090026671"
+      },
+      {
+        "file": "node_modules/math-intrinsics/constants/maxArrayLength.js",
+        "hash": "1774895070744872358"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/utils.d.ts.map",
+        "hash": "12760042277012723418"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/package.json",
+        "hash": "4904498293025441085"
+      },
+      {
+        "file": "node_modules/@noble/hashes/pbkdf2.js",
+        "hash": "6931629830521535713"
+      },
+      {
+        "file": "node_modules/@noble/hashes/ripemd160.js.map",
+        "hash": "17118796351993757134"
+      },
+      {
+        "file": "node_modules/dezalgo/LICENSE",
+        "hash": "2403263620491106802"
+      },
+      {
+        "file": "dist/api/src/prisma/prisma-client.js",
+        "hash": "8761636737619672191"
+      },
+      {
+        "file": "node_modules/@types/cookiejar/package.json",
+        "hash": "1732592201656509751"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/crypto.js",
+        "hash": "1775481354794386330"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha512.js",
+        "hash": "13078499333920584668"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha2.js.map",
+        "hash": "18307335373125809234"
+      },
+      {
+        "file": "dist/api/src/app/models/http-exception.model.js",
+        "hash": "17760554178929055682"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/scrypt.d.ts.map",
+        "hash": "2749125820562801298"
+      },
+      {
+        "file": "dist/api/src/assets/images/demo-avatar.png",
+        "hash": "10635547064654873089"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.controller.js",
+        "hash": "15043492702092814396"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hkdf.d.ts.map",
+        "hash": "5288899370989459404"
+      },
+      {
+        "file": ".nx/cache/.tsbuildinfo",
+        "hash": "4580225244424129584"
+      },
+      {
+        "file": "node_modules/debug/src/index.js",
+        "hash": "14095841056705543829"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2s.d.ts.map",
+        "hash": "7535392024402369449"
+      },
+      {
+        "file": "node_modules/side-channel-map/index.d.ts",
+        "hash": "14682112924368744696"
+      },
+      {
+        "file": "node_modules/dunder-proto/get.js",
+        "hash": "10377928042532052528"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/blake1.ts",
+        "hash": "1263565838554455753"
+      },
+      {
+        "file": "node_modules/supertest/node_modules/cookie-signature/package.json",
+        "hash": "7639838335749894921"
+      },
+      {
+        "file": "node_modules/es-errors/range.js",
+        "hash": "2238021804754578655"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha256.js",
+        "hash": "16156685852408071194"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3.d.ts",
+        "hash": "13904406683697388007"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha2.js",
+        "hash": "7843408063221246977"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2.d.ts",
+        "hash": "1717846717911007980"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/dist/qs.js",
+        "hash": "7987864341925769818"
+      },
+      {
+        "file": "node_modules/object-inspect/example/inspect.js",
+        "hash": "11549111894631376360"
+      },
+      {
+        "file": "node_modules/has-symbols/tsconfig.json",
+        "hash": "14217314931751833075"
+      },
+      {
+        "file": "node_modules/dunder-proto/test/get.js",
+        "hash": "16604658013709376343"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2.js.map",
+        "hash": "15818602854941730920"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/token.utils.js",
+        "hash": "6130596907717722426"
+      },
+      {
+        "file": "node_modules/has-symbols/test/shams/get-own-property-symbols.js",
+        "hash": "6827268140411384948"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/index.js",
+        "hash": "7566649759708132379"
+      },
+      {
+        "file": "dist/api/package.json",
+        "hash": "8820016597429082123"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "3427273014429356507"
+      },
+      {
+        "file": "node_modules/superagent/package.json",
+        "hash": "3754995325808259813"
+      },
+      {
+        "file": "node_modules/math-intrinsics/round.js",
+        "hash": "13622963989121536879"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/LICENSE",
+        "hash": "2970713655386700954"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/scrypt.js",
+        "hash": "811051423990878584"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/actualApply.d.ts",
+        "hash": "4787389966779505016"
+      },
+      {
+        "file": "node_modules/debug/LICENSE",
+        "hash": "14551346791997692059"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/registered-user.model.js.map",
+        "hash": "1835488878328805013"
+      },
+      {
+        "file": "node_modules/math-intrinsics/sign.js",
+        "hash": "14815147542812253496"
+      },
+      {
+        "file": "node_modules/@types/superagent/lib/node/http2wrapper.d.ts",
+        "hash": "7179876563552612861"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_blake.js.map",
+        "hash": "2050117695775658743"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_u64.js",
+        "hash": "4742374376006219810"
+      },
+      {
+        "file": "node_modules/has-tostringtag/index.js",
+        "hash": "5348343375537359224"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/scrypt.ts",
+        "hash": "15501373603357068720"
+      },
+      {
+        "file": "node_modules/formidable/src/plugins/octetstream.js",
+        "hash": "13432094851875500779"
+      },
+      {
+        "file": "dist/api/src/app/routes/tag/tag.service.js.map",
+        "hash": "14552821048581430739"
+      },
+      {
+        "file": "node_modules/get-intrinsic/README.md",
+        "hash": "7638609378717570090"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/eslint.config.mjs",
+        "hash": "3443552646665726534"
+      },
+      {
+        "file": "node_modules/object-inspect/test/element.js",
+        "hash": "11106834001889638544"
+      },
+      {
+        "file": "node_modules/@paralleldrive/cuid2/src/index.js",
+        "hash": "12388096785670598634"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/.nycrc",
+        "hash": "8920670064314439538"
+      },
+      {
+        "file": "node_modules/math-intrinsics/sign.d.ts",
+        "hash": "12109804943221298928"
+      },
+      {
+        "file": "node_modules/side-channel/.github/FUNDING.yml",
+        "hash": "13622368025692313478"
+      },
+      {
+        "file": "node_modules/cookiejar/cookiejar.js",
+        "hash": "1564789441435830940"
+      },
+      {
+        "file": "node_modules/component-emitter/LICENSE",
+        "hash": "7751849622635329494"
+      },
+      {
+        "file": "node_modules/math-intrinsics/.github/FUNDING.yml",
+        "hash": "6681944795892797879"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/.eslintrc",
+        "hash": "4764548774919799026"
+      },
+      {
+        "file": "node_modules/es-object-atoms/isObject.js",
+        "hash": "7691688055323204165"
+      },
+      {
+        "file": "node_modules/gopd/package.json",
+        "hash": "9121091420929331533"
+      },
+      {
+        "file": "node_modules/formidable/package.json",
+        "hash": "15752050488377514183"
+      },
+      {
+        "file": "node_modules/get-proto/.github/FUNDING.yml",
+        "hash": "15034326458151692539"
+      },
+      {
+        "file": "node_modules/object-inspect/example/fn.js",
+        "hash": "9426644918022392658"
+      },
+      {
+        "file": "node_modules/es-errors/tsconfig.json",
+        "hash": "4256691303466730107"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/.nycrc",
+        "hash": "14293669718343674663"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.mapper.js.map",
+        "hash": "11391178543269446977"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake3.d.ts",
+        "hash": "11122849344169821933"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3.d.ts",
+        "hash": "13904406683697388007"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/ripemd160.js.map",
+        "hash": "2247167776795646566"
+      },
+      {
+        "file": "node_modules/@noble/hashes/crypto.d.ts.map",
+        "hash": "15268683699328516142"
+      },
+      {
+        "file": "node_modules/@noble/hashes/ripemd160.d.ts.map",
+        "hash": "8794111340240894901"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_assert.d.ts.map",
+        "hash": "12058004702705725225"
+      },
+      {
+        "file": "node_modules/object-inspect/index.js",
+        "hash": "8178013673430927954"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hkdf.js",
+        "hash": "17275827956706174620"
+      },
+      {
+        "file": "node_modules/has-tostringtag/shams.js",
+        "hash": "14270260802299343978"
+      },
+      {
+        "file": "node_modules/@noble/hashes/LICENSE",
+        "hash": "15453413218995221471"
+      },
+      {
+        "file": "node_modules/supertest/index.js",
+        "hash": "11154055312961825072"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hmac.js",
+        "hash": "11730590297161398011"
+      },
+      {
+        "file": "node_modules/formidable/dist/parsers/JSON.cjs",
+        "hash": "5826586250759750411"
+      },
+      {
+        "file": "node_modules/@noble/hashes/eskdf.js",
+        "hash": "14251233232080015728"
+      },
+      {
+        "file": "node_modules/@noble/hashes/legacy.d.ts.map",
+        "hash": "10692817264120356630"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/package.json",
+        "hash": "13015132477398572347"
+      },
+      {
+        "file": "node_modules/@types/superagent/index.d.ts",
+        "hash": "8359206686754542278"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2b.d.ts.map",
+        "hash": "14130644441725488256"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_md.js",
+        "hash": "6160606299205400474"
+      },
+      {
+        "file": "node_modules/cookiejar/package.json",
+        "hash": "13422760702381879415"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha1.d.ts.map",
+        "hash": "10554723117634636365"
+      },
+      {
+        "file": "node_modules/supertest/README.md",
+        "hash": "17053071464279263108"
+      },
+      {
+        "file": "node_modules/@types/supertest/README.md",
+        "hash": "5462004097377224893"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/functionApply.d.ts",
+        "hash": "7859036852122028730"
+      },
+      {
+        "file": "node_modules/es-object-atoms/index.js",
+        "hash": "6254376351925617874"
+      },
+      {
+        "file": "node_modules/call-bound/index.js",
+        "hash": "13283853847313152006"
+      },
+      {
+        "file": "tsconfig.app.json",
+        "hash": "10995559194342697319"
+      },
+      {
+        "file": "node_modules/object-inspect/.nycrc",
+        "hash": "7361134365760104773"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/.github/FUNDING.yml",
+        "hash": "16167952613022491264"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/lite.js",
+        "hash": "243589393255700188"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3-addons.d.ts.map",
+        "hash": "3916807915126608533"
+      },
+      {
+        "file": "node_modules/@noble/hashes/index.js",
+        "hash": "9054320124258056851"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/tsconfig.json",
+        "hash": "14104186329936681563"
+      },
+      {
+        "file": "node_modules/side-channel-map/tsconfig.json",
+        "hash": "6351189985930146429"
+      },
+      {
+        "file": "node_modules/math-intrinsics/mod.d.ts",
+        "hash": "9097486229365885868"
+      },
+      {
+        "file": "node_modules/get-intrinsic/package.json",
+        "hash": "16384544353718878007"
+      },
+      {
+        "file": "node_modules/component-emitter/index.js",
+        "hash": "14536274113223502061"
+      },
+      {
+        "file": "node_modules/formidable/src/index.js",
+        "hash": "5332205950490863961"
+      },
+      {
+        "file": "node_modules/dezalgo/dezalgo.js",
+        "hash": "14860376795479936335"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha256.d.ts",
+        "hash": "7271792960683556223"
+      },
+      {
+        "file": "node_modules/debug/src/node.js",
+        "hash": "2530023521591415023"
+      },
+      {
+        "file": "node_modules/side-channel-map/.editorconfig",
+        "hash": "13871203256947041333"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/Mime.js",
+        "hash": "3798913063916505073"
+      },
+      {
+        "file": "node_modules/@noble/hashes/legacy.d.ts",
+        "hash": "18040567961657558368"
+      },
+      {
+        "file": "dist/api/src/app/routes/tag/tag.controller.js",
+        "hash": "10765720104488497571"
+      },
+      {
+        "file": "node_modules/@types/methods/package.json",
+        "hash": "7447285877936731821"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/utils.js",
+        "hash": "10341165185367298571"
+      },
+      {
+        "file": "node_modules/formidable/src/parsers/Multipart.js",
+        "hash": "10610286368472345384"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/test.js",
+        "hash": "1749611516987522627"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2.js",
+        "hash": "5386704962990274966"
+      },
+      {
+        "file": "dist/api/src/prisma/prisma-client.js.map",
+        "hash": "12928120905512552862"
+      },
+      {
+        "file": "node_modules/hasown/index.js",
+        "hash": "896914798520084443"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/legacy.js",
+        "hash": "9306965568048235369"
+      },
+      {
+        "file": "node_modules/has-symbols/CHANGELOG.md",
+        "hash": "2829503394381252965"
+      },
+      {
+        "file": "node_modules/math-intrinsics/constants/maxSafeInteger.js",
+        "hash": "8672660172085382552"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/auth.js.map",
+        "hash": "16126060315049275950"
+      },
+      {
+        "file": "node_modules/side-channel/.editorconfig",
+        "hash": "13871203256947041333"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/.nycrc",
+        "hash": "8920670064314439538"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/response.js",
+        "hash": "17732580185122586900"
+      },
+      {
+        "file": ".nx/cache/file-map.json",
+        "hash": "12419191317855386328"
+      },
+      {
+        "file": "node_modules/dunder-proto/.eslintrc",
+        "hash": "16109232176193711292"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha1.d.ts",
+        "hash": "15822303009247400573"
+      },
+      {
+        "file": "node_modules/side-channel-list/test/index.js",
+        "hash": "3797506026182823157"
+      },
+      {
+        "file": "node_modules/ms/license.md",
+        "hash": "11349156274638761467"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/LICENSE",
+        "hash": "12411509641663973951"
+      },
+      {
+        "file": "node_modules/@noble/hashes/argon2.js.map",
+        "hash": "7232990318380172470"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/sha256.ts",
+        "hash": "16369133966508952305"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/test/index.js",
+        "hash": "202132009435201233"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/LICENSE",
+        "hash": "15040856153725051755"
+      },
+      {
+        "file": "node_modules/has-tostringtag/package.json",
+        "hash": "14846996884014986700"
+      },
+      {
+        "file": "node_modules/has-symbols/.eslintrc",
+        "hash": "11991225785076778674"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.service.js",
+        "hash": "13945411272272653188"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/pbkdf2.js.map",
+        "hash": "1734543411229698453"
+      },
+      {
+        "file": "node_modules/dunder-proto/CHANGELOG.md",
+        "hash": "17550020752111549629"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.model.js",
+        "hash": "7042450757286763565"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha512.d.ts.map",
+        "hash": "9348630318235274601"
+      },
+      {
+        "file": "node_modules/dunder-proto/package.json",
+        "hash": "8624558726372916105"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/crypto.ts",
+        "hash": "9170477233124846359"
+      },
+      {
+        "file": "node_modules/form-data/lib/populate.js",
+        "hash": "17669102266969162711"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_blake.d.ts.map",
+        "hash": "1468681176230500259"
+      },
+      {
+        "file": "node_modules/side-channel-map/package.json",
+        "hash": "948496660252299224"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hkdf.d.ts",
+        "hash": "16215008302959889614"
+      },
+      {
+        "file": "node_modules/object-inspect/test/holes.js",
+        "hash": "12897752213019762360"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/author.mapper.js",
+        "hash": "16776303981327899207"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/comment.model.js.map",
+        "hash": "15210269436363805155"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/index.d.ts",
+        "hash": "15472440698786797696"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_assert.d.ts",
+        "hash": "1633572301186076102"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hkdf.js.map",
+        "hash": "11862961564558088294"
+      },
+      {
+        "file": "node_modules/has-symbols/.github/FUNDING.yml",
+        "hash": "1687263287379710838"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/parsers/urlencoded.js",
+        "hash": "595181662401728564"
+      },
+      {
+        "file": "node_modules/@noble/hashes/package.json",
+        "hash": "8443956652997004355"
+      },
+      {
+        "file": "node_modules/@types/supertest/package.json",
+        "hash": "15419111532153704895"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_assert.js",
+        "hash": "2558119852806332905"
+      },
+      {
+        "file": "node_modules/call-bound/CHANGELOG.md",
+        "hash": "6493676728491801779"
+      },
+      {
+        "file": "node_modules/@types/superagent/lib/node/index.d.ts",
+        "hash": "16064966867982355449"
+      },
+      {
+        "file": "node_modules/object-inspect/test/err.js",
+        "hash": "7886162741581458746"
+      },
+      {
+        "file": "node_modules/object-inspect/test/toStringTag.js",
+        "hash": "12946950682857296158"
+      },
+      {
+        "file": "node_modules/gopd/gOPD.d.ts",
+        "hash": "11109321792978475096"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2.d.ts.map",
+        "hash": "16267764768960353343"
+      },
+      {
+        "file": "node_modules/gopd/tsconfig.json",
+        "hash": "6351189985930146429"
+      },
+      {
+        "file": "node_modules/gopd/README.md",
+        "hash": "10215021221051730152"
+      },
+      {
+        "file": "node_modules/superagent/lib/agent-base.js",
+        "hash": "8069575364170985581"
+      },
+      {
+        "file": "node_modules/has-tostringtag/shams.d.ts",
+        "hash": "17054287578403132650"
+      },
+      {
+        "file": "node_modules/get-proto/CHANGELOG.md",
+        "hash": "14824069580891666363"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/lib/stringify.js",
+        "hash": "18210440651642641713"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/decompress.js",
+        "hash": "8262544836608154142"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha256.d.ts.map",
+        "hash": "15716976603509274987"
+      },
+      {
+        "file": "node_modules/asap/README.md",
+        "hash": "14351035144957381564"
+      },
+      {
+        "file": "node_modules/@types/superagent/lib/node/response.d.ts",
+        "hash": "8191034053477632363"
+      },
+      {
+        "file": "node_modules/es-errors/index.d.ts",
+        "hash": "12676391579084433458"
+      },
+      {
+        "file": "node_modules/dunder-proto/set.js",
+        "hash": "8826299791560654813"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/pbkdf2.ts",
+        "hash": "9948026397928363800"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_u64.d.ts.map",
+        "hash": "14460393462068928091"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3-addons.d.ts",
+        "hash": "5953712508855948026"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/test/index.js",
+        "hash": "5357913023285129909"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/readme.md",
+        "hash": "4887543992460149464"
+      },
+      {
+        "file": "node_modules/form-data/lib/form_data.js",
+        "hash": "1739153470502411068"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake1.d.ts",
+        "hash": "15202294268875138298"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/.github/THREAT_MODEL.md",
+        "hash": "13484951771006675795"
+      },
+      {
+        "file": "node_modules/@noble/hashes/pbkdf2.js.map",
+        "hash": "6826309848358488925"
+      },
+      {
+        "file": "node_modules/superagent/lib/utils.js",
+        "hash": "11155518105793937885"
+      },
+      {
+        "file": "node_modules/get-proto/Object.getPrototypeOf.js",
+        "hash": "9949862998931865099"
+      },
+      {
+        "file": "node_modules/side-channel-weakmap/index.d.ts",
+        "hash": "18300759538058917590"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/scrypt.d.ts",
+        "hash": "1168756528939400130"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/author.mapper.js.map",
+        "hash": "7783129721669831042"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_blake.d.ts",
+        "hash": "5162657749779223792"
+      },
+      {
+        "file": "node_modules/object-inspect/test/global.js",
+        "hash": "10044606533638175961"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hmac.d.ts",
+        "hash": "7810000049183389466"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/user-request.d.js",
+        "hash": "10685870869023157861"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2b.js",
+        "hash": "9782327444930022262"
+      },
+      {
+        "file": "node_modules/get-proto/Reflect.getPrototypeOf.d.ts",
+        "hash": "13216619517912652178"
+      },
+      {
+        "file": "node_modules/es-errors/uri.d.ts",
+        "hash": "6705345552054706375"
+      },
+      {
+        "file": "node_modules/@noble/hashes/crypto.js",
+        "hash": "5805997892796972789"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/hmac.ts",
+        "hash": "13789743914317433930"
+      },
+      {
+        "file": "node_modules/math-intrinsics/pow.d.ts",
+        "hash": "18167928094624363497"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha2.d.ts.map",
+        "hash": "13790077993692540105"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hkdf.js",
+        "hash": "16212776247170932770"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/.editorconfig",
+        "hash": "17534228341134192336"
+      },
+      {
+        "file": "node_modules/asap/raw.js",
+        "hash": "11254906023583529759"
+      },
+      {
+        "file": "node_modules/call-bound/tsconfig.json",
+        "hash": "9351183944116853726"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/crypto.js.map",
+        "hash": "12049065088827604442"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.service.js",
+        "hash": "2986381972753997628"
+      },
+      {
+        "file": "node_modules/@noble/hashes/utils.d.ts",
+        "hash": "5820167474431129484"
+      },
+      {
+        "file": "node_modules/object-inspect/test/bigint.js",
+        "hash": "14176141113823763230"
+      },
+      {
+        "file": "node_modules/es-define-property/index.d.ts",
+        "hash": "10237384046728210938"
+      },
+      {
+        "file": "node_modules/hasown/CHANGELOG.md",
+        "hash": "14258784574634762782"
+      },
+      {
+        "file": "node_modules/side-channel/.eslintrc",
+        "hash": "4764548774919799026"
+      },
+      {
+        "file": "node_modules/@noble/hashes/scrypt.js.map",
+        "hash": "10110003381155570749"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hmac.js.map",
+        "hash": "17073650108010906854"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake1.js.map",
+        "hash": "14373961699921928596"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isNaN.js",
+        "hash": "6141421517535068211"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/test/utils.js",
+        "hash": "12937949723414221036"
+      },
+      {
+        "file": "node_modules/@noble/hashes/cryptoNode.d.ts.map",
+        "hash": "11454408930875451664"
+      },
+      {
+        "file": "node_modules/es-errors/index.js",
+        "hash": "16708771599899139037"
+      },
+      {
+        "file": "node_modules/@types/superagent/types.d.ts",
+        "hash": "5116793967265659345"
+      },
+      {
+        "file": "node_modules/has-tostringtag/index.d.ts",
+        "hash": "8660584343156400062"
+      },
+      {
+        "file": "node_modules/formidable/src/parsers/StreamingQuerystring.js",
+        "hash": "13600335792098149506"
+      },
+      {
+        "file": "node_modules/debug/src/browser.js",
+        "hash": "2180558369101737867"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/cryptoNode.d.ts",
+        "hash": "2954914321529574498"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.service.js.map",
+        "hash": "3115462533642435452"
+      },
+      {
         "file": ".nx/cache/project-graph.json",
         "hash": "4946909805274676661"
       },
       {
-        "file": ".nx/cache/lockfile.hash",
-        "hash": "5447386257632974020"
+        "file": "node_modules/es-set-tostringtag/.eslintrc",
+        "hash": "16004315274915435186"
       },
       {
-        "file": ".nx/cache/file-map.json",
-        "hash": "12727748520290437660"
+        "file": "node_modules/es-errors/range.d.ts",
+        "hash": "7346534043538456142"
       },
       {
-        "file": ".nx/cache/parsed-lock-file.json",
-        "hash": "11252760967190879107"
+        "file": "node_modules/@types/methods/README.md",
+        "hash": "5712877132010222961"
+      },
+      {
+        "file": "node_modules/math-intrinsics/round.d.ts",
+        "hash": "4087399229603671395"
+      },
+      {
+        "file": "node_modules/es-define-property/.eslintrc",
+        "hash": "16459861645470861645"
+      },
+      {
+        "file": "node_modules/@noble/hashes/argon2.js",
+        "hash": "10507244817680120900"
+      },
+      {
+        "file": "node_modules/formidable/src/helpers/readBooleans.js",
+        "hash": "2974430897061234221"
+      },
+      {
+        "file": "dist/api/src/prisma/seed.js.map",
+        "hash": "4635108499862422498"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/scrypt.js.map",
+        "hash": "6483124067160777211"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2.d.ts.map",
+        "hash": "6220096315288892730"
+      },
+      {
+        "file": "dist/api/src/app/routes/article/article.mapper.js",
+        "hash": "18169315090544870450"
+      },
+      {
+        "file": "node_modules/component-emitter/Readme.md",
+        "hash": "4748769329129616935"
+      },
+      {
+        "file": "node_modules/call-bound/LICENSE",
+        "hash": "12888197576746949064"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/blake2s.ts",
+        "hash": "10165684168513009314"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_md.js.map",
+        "hash": "17288728627369300755"
+      },
+      {
+        "file": "dist/api/main.js.map",
+        "hash": "11826500222216109697"
+      },
+      {
+        "file": "dist/api/src/app/routes/tag/tag.model.js.map",
+        "hash": "14563956819949160053"
+      },
+      {
+        "file": "node_modules/formidable/README_pt_BR.md",
+        "hash": "12165542214328252628"
+      },
+      {
+        "file": "node_modules/@noble/hashes/utils.d.ts.map",
+        "hash": "14870798451831715995"
+      },
+      {
+        "file": "node_modules/formidable/README.md",
+        "hash": "12647723033727876618"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/cryptoNode.d.ts.map",
+        "hash": "7738018155734305549"
+      },
+      {
+        "file": "node_modules/es-object-atoms/.github/FUNDING.yml",
+        "hash": "17744258673377549008"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_md.d.ts.map",
+        "hash": "2871167551417943121"
+      },
+      {
+        "file": "node_modules/side-channel-list/.github/FUNDING.yml",
+        "hash": "8520906932975682610"
+      },
+      {
+        "file": "node_modules/hasown/.github/FUNDING.yml",
+        "hash": "7547651829568244549"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha256.js",
+        "hash": "2403538304960510557"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/_assert.ts",
+        "hash": "8099365578226311757"
+      },
+      {
+        "file": "node_modules/object-inspect/test/inspect.js",
+        "hash": "12566704014123397423"
+      },
+      {
+        "file": "node_modules/formidable/dist/parsers/Querystring.cjs",
+        "hash": "17017747211717342173"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/blake2s.d.ts",
+        "hash": "4844164089278375961"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha512.js.map",
+        "hash": "3539589762901167825"
+      },
+      {
+        "file": "node_modules/@types/cookiejar/LICENSE",
+        "hash": "11929769968810875751"
+      },
+      {
+        "file": "node_modules/object-inspect/.github/FUNDING.yml",
+        "hash": "190213042505605496"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/package.json",
+        "hash": "16544439972872431730"
+      },
+      {
+        "file": "node_modules/@types/superagent/lib/response-base.d.ts",
+        "hash": "10224508742481261258"
+      },
+      {
+        "file": "node_modules/es-define-property/LICENSE",
+        "hash": "12888197576746949064"
+      },
+      {
+        "file": "node_modules/@noble/hashes/hkdf.js.map",
+        "hash": "3429228599965678888"
+      },
+      {
+        "file": "node_modules/@paralleldrive/cuid2/package.json",
+        "hash": "656126294266626362"
+      },
+      {
+        "file": "node_modules/has-tostringtag/CHANGELOG.md",
+        "hash": "3376870688167358388"
+      },
+      {
+        "file": "node_modules/es-errors/eval.d.ts",
+        "hash": "15966646816448791402"
+      },
+      {
+        "file": "node_modules/object-inspect/util.inspect.js",
+        "hash": "13572687559799891225"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/README.md",
+        "hash": "831483533936525670"
+      },
+      {
+        "file": "node_modules/get-proto/test/index.js",
+        "hash": "15361239730528661717"
+      },
+      {
+        "file": "node_modules/formidable/src/parsers/Dummy.js",
+        "hash": "15018060802041190199"
+      },
+      {
+        "file": "node_modules/object-inspect/LICENSE",
+        "hash": "12853492025416817038"
+      },
+      {
+        "file": "node_modules/@noble/hashes/eskdf.js.map",
+        "hash": "11291808524613179244"
+      },
+      {
+        "file": "node_modules/call-bound/.nycrc",
+        "hash": "8920670064314439538"
+      },
+      {
+        "file": "node_modules/@noble/hashes/cryptoNode.js.map",
+        "hash": "852919016893935758"
+      },
+      {
+        "file": "node_modules/es-define-property/tsconfig.json",
+        "hash": "662517845781159814"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/index.d.ts",
+        "hash": "8102290563129268714"
+      },
+      {
+        "file": "node_modules/has-symbols/README.md",
+        "hash": "12159370144873509489"
+      },
+      {
+        "file": "node_modules/ms/index.js",
+        "hash": "11543176071214583760"
+      },
+      {
+        "file": "node_modules/es-define-property/.github/FUNDING.yml",
+        "hash": "6949783674315804057"
+      },
+      {
+        "file": "node_modules/object-inspect/readme.markdown",
+        "hash": "13864445216993552719"
+      },
+      {
+        "file": "node_modules/object-inspect/test/has.js",
+        "hash": "3219499702738664556"
+      },
+      {
+        "file": "node_modules/math-intrinsics/CHANGELOG.md",
+        "hash": "1264284359613752339"
+      },
+      {
+        "file": "node_modules/supertest/lib/test.js",
+        "hash": "10249192276213870764"
+      },
+      {
+        "file": "node_modules/object-inspect/test/quoteStyle.js",
+        "hash": "8485271397854136224"
+      },
+      {
+        "file": "node_modules/@paralleldrive/cuid2/index.d.ts",
+        "hash": "16977538009713328661"
+      },
+      {
+        "file": "node_modules/side-channel-list/.nycrc",
+        "hash": "3432297095845567737"
+      },
+      {
+        "file": "node_modules/side-channel/tsconfig.json",
+        "hash": "6351189985930146429"
+      },
+      {
+        "file": "node_modules/get-proto/package.json",
+        "hash": "7266816313783491857"
+      },
+      {
+        "file": "node_modules/@noble/hashes/pbkdf2.d.ts.map",
+        "hash": "13691183338970512423"
+      },
+      {
+        "file": "node_modules/side-channel-map/LICENSE",
+        "hash": "12888197576746949064"
+      },
+      {
+        "file": "node_modules/gopd/CHANGELOG.md",
+        "hash": "18116484172093012615"
+      },
+      {
+        "file": "node_modules/.package-lock.json",
+        "hash": "8132489547520827518"
+      },
+      {
+        "file": "node_modules/es-errors/.github/FUNDING.yml",
+        "hash": "14200794567481249927"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/package.json",
+        "hash": "9178281295777848033"
+      },
+      {
+        "file": "node_modules/side-channel/test/index.js",
+        "hash": "17452191155692290052"
+      },
+      {
+        "file": "node_modules/hasown/index.d.ts",
+        "hash": "6947866136527720511"
+      },
+      {
+        "file": "node_modules/math-intrinsics/test/index.js",
+        "hash": "14950403140392487270"
+      },
+      {
+        "file": "node_modules/math-intrinsics/constants/maxValue.d.ts",
+        "hash": "3235471295236658674"
+      },
+      {
+        "file": "node_modules/@noble/hashes/eskdf.d.ts.map",
+        "hash": "14433300744271620255"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/reflectApply.js",
+        "hash": "16500614951181778007"
+      },
+      {
+        "file": "node_modules/gopd/.eslintrc",
+        "hash": "4456465028582767524"
+      },
+      {
+        "file": "dist/api/main.js",
+        "hash": "18159677347048294823"
+      },
+      {
+        "file": "node_modules/math-intrinsics/min.js",
+        "hash": "12423479873428661651"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake3.js.map",
+        "hash": "15581502810692911311"
+      },
+      {
+        "file": "node_modules/es-define-property/CHANGELOG.md",
+        "hash": "17450269063745914925"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha1.js",
+        "hash": "9592332850043011449"
+      },
+      {
+        "file": "node_modules/dunder-proto/.nycrc",
+        "hash": "3432297095845567737"
+      },
+      {
+        "file": "node_modules/side-channel-list/tsconfig.json",
+        "hash": "6351189985930146429"
+      },
+      {
+        "file": "node_modules/es-errors/README.md",
+        "hash": "18227350424586708551"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/legacy.d.ts.map",
+        "hash": "10662394280636670459"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_blake.d.ts.map",
+        "hash": "13842536625388833818"
+      },
+      {
+        "file": "node_modules/@noble/hashes/crypto.js.map",
+        "hash": "11607221659418360563"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/sha3.ts",
+        "hash": "17766938102958990855"
+      },
+      {
+        "file": "node_modules/formidable/LICENSE",
+        "hash": "16124084267086461369"
+      },
+      {
+        "file": "node_modules/object-inspect/test/indent-option.js",
+        "hash": "3108128987240679645"
+      },
+      {
+        "file": "node_modules/supertest/package.json",
+        "hash": "7287768630330248011"
+      },
+      {
+        "file": "tmp/api/main-with-require-overrides.js",
+        "hash": "8143564513521340325"
+      },
+      {
+        "file": "dist/api/src/assets/images/smiley-cyrus.jpeg",
+        "hash": "1144521799396656283"
+      },
+      {
+        "file": "node_modules/side-channel-list/list.d.ts",
+        "hash": "2321146969537320102"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/package.json",
+        "hash": "17459858728194439590"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isInteger.js",
+        "hash": "5005256053743399362"
+      },
+      {
+        "file": "node_modules/supertest/lib/cookies/assertion.js",
+        "hash": "13477563568928025967"
+      },
+      {
+        "file": "node_modules/@noble/hashes/scrypt.d.ts",
+        "hash": "1168756528939400130"
+      },
+      {
+        "file": "node_modules/side-channel-map/.nycrc",
+        "hash": "3432297095845567737"
+      },
+      {
+        "file": "node_modules/has-tostringtag/test/shams/core-js.js",
+        "hash": "6241892331293987948"
+      },
+      {
+        "file": "dist/api/src/main.js.map",
+        "hash": "1116616009538284479"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isFinite.js",
+        "hash": "11552792884948524110"
+      },
+      {
+        "file": "dist/api/src/app/routes/profile/profile.model.js",
+        "hash": "4131065839795536467"
+      },
+      {
+        "file": "node_modules/@types/methods/LICENSE",
+        "hash": "11929769968810875751"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_md.d.ts",
+        "hash": "12019025138010133628"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/blake3.ts",
+        "hash": "9332789129342172817"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_assert.js.map",
+        "hash": "13556639913840766792"
+      },
+      {
+        "file": "node_modules/@noble/hashes/scrypt.d.ts.map",
+        "hash": "16105657773231837590"
+      },
+      {
+        "file": "node_modules/form-data/CHANGELOG.md",
+        "hash": "10863152591352520896"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/utils.d.ts",
+        "hash": "5820167474431129484"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_md.d.ts.map",
+        "hash": "15738131150866905815"
+      },
+      {
+        "file": "node_modules/@noble/hashes/argon2.d.ts.map",
+        "hash": "7949199215124700547"
+      },
+      {
+        "file": "node_modules/side-channel/package.json",
+        "hash": "5975780609342228167"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_md.js.map",
+        "hash": "4384057486092723891"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/auth.service.js.map",
+        "hash": "6632417432064269110"
+      },
+      {
+        "file": "node_modules/formidable/src/VolatileFile.js",
+        "hash": "743243331126028643"
+      },
+      {
+        "file": "dist/api/src/app/routes/tag/tag.model.js",
+        "hash": "11806342592237555411"
+      },
+      {
+        "file": "dist/api/src/app/routes/tag/tag.service.js",
+        "hash": "16576072454312662326"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/ripemd160.d.ts.map",
+        "hash": "373305916038209038"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/sha1.ts",
+        "hash": "565074176460680199"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/_blake.js",
+        "hash": "6395154128734688842"
+      },
+      {
+        "file": "node_modules/@paralleldrive/cuid2/LICENSE",
+        "hash": "13232179679372117461"
+      },
+      {
+        "file": "node_modules/@noble/hashes/sha3-addons.d.ts.map",
+        "hash": "8559123818096148724"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/index.js",
+        "hash": "6467236122412701490"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/auth.controller.js.map",
+        "hash": "10436631251503725455"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/index.js",
+        "hash": "13309748994561008896"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/parsers/image.js",
+        "hash": "12378786986070919414"
+      },
+      {
+        "file": "node_modules/formidable/dist/helpers/firstValues.cjs",
+        "hash": "9233056116746214546"
+      },
+      {
+        "file": "node_modules/@paralleldrive/cuid2/index.js",
+        "hash": "8899064296621016668"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/pbkdf2.d.ts",
+        "hash": "4702946317252189695"
+      },
+      {
+        "file": "node_modules/formidable/src/plugins/index.js",
+        "hash": "4469187728913436917"
+      },
+      {
+        "file": "node_modules/dunder-proto/test/index.js",
+        "hash": "4745831421754679740"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha1.js.map",
+        "hash": "2886726957101759355"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/crypto.d.ts",
+        "hash": "970673159695535124"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3-addons.js.map",
+        "hash": "7053207017332228601"
+      },
+      {
+        "file": "node_modules/has-symbols/shams.js",
+        "hash": "8673265210731829105"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/benchmark.js",
+        "hash": "14116626035972316856"
+      },
+      {
+        "file": "node_modules/superagent/lib/node/parsers/json.js",
+        "hash": "17608040224046251853"
+      },
+      {
+        "file": "node_modules/es-errors/package.json",
+        "hash": "13362071686540618862"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/register-input.model.js",
+        "hash": "12513305360243310472"
+      },
+      {
+        "file": "node_modules/math-intrinsics/isNegativeZero.d.ts",
+        "hash": "17029084327338608329"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2b.d.ts",
+        "hash": "15163856299115173660"
+      },
+      {
+        "file": "node_modules/supertest/node_modules/cookie-signature/Readme.md",
+        "hash": "4497252661901701176"
+      },
+      {
+        "file": "node_modules/es-errors/ref.d.ts",
+        "hash": "17763872515123240808"
+      },
+      {
+        "file": "node_modules/side-channel-list/index.js",
+        "hash": "937758596653783081"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/README.md",
+        "hash": "16016214730919730871"
+      },
+      {
+        "file": "node_modules/object-inspect/.eslintrc",
+        "hash": "3881165507657430061"
+      },
+      {
+        "file": "node_modules/es-errors/syntax.d.ts",
+        "hash": "1793486920207235058"
+      },
+      {
+        "file": "node_modules/@noble/hashes/blake2b.js.map",
+        "hash": "12737238070095938746"
+      },
+      {
+        "file": ".nx/cache/terminalOutputs/12057739375041965120",
+        "hash": "3244421341483603138"
+      },
+      {
+        "file": "node_modules/@noble/hashes/_blake.js.map",
+        "hash": "10348560429513083098"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/cryptoNode.ts",
+        "hash": "2628311320344279886"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/functionCall.d.ts",
+        "hash": "13628177109362955765"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/.travis.yml",
+        "hash": "12645890829974419276"
+      },
+      {
+        "file": "node_modules/@types/methods/index.d.ts",
+        "hash": "10601089545603984512"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/mime/README.md",
+        "hash": "10765572699329690070"
+      },
+      {
+        "file": "node_modules/es-errors/ref.js",
+        "hash": "8926440427987159152"
+      },
+      {
+        "file": "node_modules/object-inspect/package-support.json",
+        "hash": "3488638435941646632"
+      },
+      {
+        "file": "node_modules/superagent/LICENSE",
+        "hash": "15893403963228148142"
+      },
+      {
+        "file": "node_modules/side-channel/index.d.ts",
+        "hash": "16000968351378639740"
+      },
+      {
+        "file": "node_modules/math-intrinsics/.eslintrc",
+        "hash": "1186608171835063022"
+      },
+      {
+        "file": "node_modules/@types/superagent/lib/request-base.d.ts",
+        "hash": "5004468607843925026"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha3.d.ts.map",
+        "hash": "11351058512000905944"
+      },
+      {
+        "file": "node_modules/object-inspect/test/browser/dom.js",
+        "hash": "12578951367769785597"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/CHANGELOG.md",
+        "hash": "16410295291700174711"
+      },
+      {
+        "file": "node_modules/side-channel-map/index.js",
+        "hash": "6337420510846920020"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/actualApply.js",
+        "hash": "11459819497991978005"
+      },
+      {
+        "file": "node_modules/math-intrinsics/README.md",
+        "hash": "18254401134726775613"
+      },
+      {
+        "file": "node_modules/@paralleldrive/cuid2/README.md",
+        "hash": "17098942875540750898"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/sha512.ts",
+        "hash": "7606447786782134107"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/index.d.ts",
+        "hash": "2674241503376658580"
+      },
+      {
+        "file": "node_modules/math-intrinsics/tsconfig.json",
+        "hash": "1856853820865207290"
+      },
+      {
+        "file": "node_modules/has-symbols/LICENSE",
+        "hash": "8433895854719413320"
+      },
+      {
+        "file": "node_modules/debug/package.json",
+        "hash": "10593460009506636601"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/argon2.js",
+        "hash": "7814710054185619668"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/hmac.js.map",
+        "hash": "13599802991833569587"
+      },
+      {
+        "file": "node_modules/es-object-atoms/isObject.d.ts",
+        "hash": "10820763118042249294"
+      },
+      {
+        "file": "node_modules/@noble/hashes/src/legacy.ts",
+        "hash": "16387958731110927516"
+      },
+      {
+        "file": "node_modules/has-tostringtag/.nycrc",
+        "hash": "3432297095845567737"
+      },
+      {
+        "file": "node_modules/@noble/hashes/esm/sha256.d.ts.map",
+        "hash": "2889365319509712315"
+      },
+      {
+        "file": "node_modules/side-channel/README.md",
+        "hash": "7836500278876065184"
+      },
+      {
+        "file": "node_modules/formidable/src/parsers/index.js",
+        "hash": "7430893904512061720"
+      },
+      {
+        "file": "dist/api/src/app/routes/auth/auth.js",
+        "hash": "8537732330005085311"
+      },
+      {
+        "file": "node_modules/superagent/node_modules/qs/lib/parse.js",
+        "hash": "6507802827389626583"
+      },
+      {
+        "file": "node_modules/fast-safe-stringify/test-stable.js",
+        "hash": "7372025256476838135"
+      },
+      {
+        "file": "node_modules/hasown/LICENSE",
+        "hash": "212050796729231274"
+      },
+      {
+        "file": "node_modules/asap/browser-asap.js",
+        "hash": "11742750735597825095"
+      },
+      {
+        "file": "node_modules/es-set-tostringtag/index.js",
+        "hash": "1332523793119801598"
+      },
+      {
+        "file": "node_modules/call-bind-apply-helpers/README.md",
+        "hash": "9284863647236334130"
       }
     ],
     "projectFileMap": {
-      "e2e": [
-        {
-          "file": "e2e/.eslintrc.json",
-          "hash": "8051240356037213136"
-        },
-        {
-          "file": "e2e/jest.config.ts",
-          "hash": "16167000130134516478"
-        },
-        {
-          "file": "e2e/project.json",
-          "hash": "5739826857222368411"
-        },
-        {
-          "file": "e2e/src/server/server.spec.ts",
-          "hash": "4579662685003779048",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "e2e/src/support/global-setup.ts",
-          "hash": "2568409276037275290"
-        },
-        {
-          "file": "e2e/src/support/global-teardown.ts",
-          "hash": "5275447082211835490"
-        },
-        {
-          "file": "e2e/src/support/test-setup.ts",
-          "hash": "10984585515912236441",
-          "deps": [
-            "npm:axios"
-          ]
-        },
-        {
-          "file": "e2e/tsconfig.json",
-          "hash": "8499526883202715106"
-        },
-        {
-          "file": "e2e/tsconfig.spec.json",
-          "hash": "9538528679713736475"
-        }
-      ],
       "api": [
-        {
-          "file": ".nx/cache/nx_files.nxt",
-          "hash": "15656056213981328886"
-        },
-        {
-          "file": ".nx/cache/run.json",
-          "hash": "9288674275767891750"
-        },
         {
           "file": "Dockerfile",
           "hash": "3930289118366919494"
@@ -429,6 +3553,50 @@
         {
           "file": "tsconfig.spec.json",
           "hash": "11196775747906634817"
+        }
+      ],
+      "e2e": [
+        {
+          "file": "e2e/.eslintrc.json",
+          "hash": "8051240356037213136"
+        },
+        {
+          "file": "e2e/jest.config.ts",
+          "hash": "16167000130134516478"
+        },
+        {
+          "file": "e2e/project.json",
+          "hash": "5739826857222368411"
+        },
+        {
+          "file": "e2e/src/server/server.spec.ts",
+          "hash": "4579662685003779048",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "e2e/src/support/global-setup.ts",
+          "hash": "2568409276037275290"
+        },
+        {
+          "file": "e2e/src/support/global-teardown.ts",
+          "hash": "5275447082211835490"
+        },
+        {
+          "file": "e2e/src/support/test-setup.ts",
+          "hash": "10984585515912236441",
+          "deps": [
+            "npm:axios"
+          ]
+        },
+        {
+          "file": "e2e/tsconfig.json",
+          "hash": "8499526883202715106"
+        },
+        {
+          "file": "e2e/tsconfig.spec.json",
+          "hash": "9538528679713736475"
         }
       ]
     }
